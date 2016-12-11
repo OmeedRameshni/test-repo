@@ -4,4 +4,3 @@
 
 *I am cool
 *I am so cool
-#* I am super cool
